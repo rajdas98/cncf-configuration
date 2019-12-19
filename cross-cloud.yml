@@ -122,9 +122,9 @@ projects:
     display_name: CoreDNS
     sub_title: Service Discovery
     gitlab_name: coredns
-    project_url: "https://github.com/coredns/coredns"
-    repository_url: "https://github.com/coredns/coredns"
-    configuration_repo: "https://raw.githubusercontent.com/crosscloudci/coredns-configuration"
+    project_url: "https://github.com/rajdas98/coredns"
+    repository_url: "https://github.com/rajdas98/coredns"
+    configuration_repo: "https://raw.githubusercontent.com/rajdas09/coredns-configuration"
     timeout: 2700 
     stable_chart: "stable"
     head_chart: "stable"
